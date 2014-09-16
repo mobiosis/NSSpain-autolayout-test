@@ -1,0 +1,13 @@
+PODS:
+  - Lyt (0.3)
+  - NibWrapper (0.1.1)
+
+DEPENDENCIES:
+  - Lyt (~> 0.3)
+  - NibWrapper (~> 0.1.1)
+
+SPEC CHECKSUMS:
+  Lyt: fca90feadfd8343544c4944691aea6ae2eafb6ff
+  NibWrapper: 7ff88bd26a2503fb01e2227b087a4a5871c64e89
+
+COCOAPODS: 0.33.1
