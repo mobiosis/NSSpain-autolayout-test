@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBF71335-815E-4A38-B80A-B74A87E8683D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>autolayout-test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3B139C69E00D7B11F76C348A799B360D562812A3</key>
+		<string>bitbucket.org:krixmobilejazz/autolayout-test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>autolayout-test/autolayout-test.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3B139C69E00D7B11F76C348A799B360D562812A3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:krixmobilejazz/autolayout-test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3B139C69E00D7B11F76C348A799B360D562812A3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3B139C69E00D7B11F76C348A799B360D562812A3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>autolayout-test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
